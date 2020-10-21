@@ -1,5 +1,16 @@
 # Preliminary test for GoJob recruitment process
 
+To execute the code:
+
+- install Node
+- run: node main.js
+
+or
+
+- open the file.html in a navigator
+- inspect the page
+- check the console
+
 Exercise:
 
 Closest to zero
